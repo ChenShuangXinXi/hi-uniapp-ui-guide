@@ -23,7 +23,7 @@ export default defineConfig({
             "/components/": [
                 {
                     items: [
-                        { text: "起步", link: "/components/start" },
+                        { text: "起步", items: [{ text: "配置", link: "/components/setting" }] },
                         {
                             text: "组件",
                             items: [{ text: "Icon 图标", link: "/components/icon" }],
@@ -33,6 +33,6 @@ export default defineConfig({
             ],
         },
 
-        socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+        socialLinks: [{ icon: "github", link: "https://github.com/ChenShuangXinXi/hi-uniapp-ui" }],
     },
 });
