@@ -9,16 +9,15 @@ hero:
     actions:
         - theme: brand
           text: 快速开始
-          link: /components/index
+          link: /components/setting
         - theme: alt
           text: 组件文档
           link: /components/icon
-
-features:
-    - title: Feature A
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - title: Feature B
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - title: Feature C
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#     - title: 轻量化
+#       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - title: Feature B
+#       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - title: Feature C
+#       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
