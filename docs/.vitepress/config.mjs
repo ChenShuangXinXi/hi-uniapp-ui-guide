@@ -23,10 +23,21 @@ export default defineConfig({
             "/components/": [
                 {
                     items: [
-                        { text: "起步", items: [{ text: "配置", link: "/components/setting" }] },
+                        {
+                            text: "起步",
+                            items: [
+                                { text: "配置", link: "/components/setting" },
+                                { text: "样式变量", link: "/components/style-vars" },
+                                { text: "辅助样式类", link: "/components/style-assist" },
+                                { text: "统一标签表现形式", link: "/components/style-reset" },
+                            ],
+                        },
                         {
                             text: "组件",
-                            items: [{ text: "Icon 图标", link: "/components/icon" }],
+                            items: [
+                                { text: "Icon 图标", link: "/components/icon" },
+                                { text: "Button 按钮", link: "/components/button" },
+                            ],
                         },
                     ],
                 },
