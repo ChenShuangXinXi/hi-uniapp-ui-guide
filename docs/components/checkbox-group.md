@@ -2,8 +2,6 @@
 
 通过 `v-model` 绑定选中的值。
 
-通过设置以双下划线开头的 `name` 属性，即可使用内置的图标。
-
 ```vue
 <hi-checkbox-group v-model="values">
     <hi-checkbox v-for="item in options" :key="item.value" :label="item.label" :value="item.value" theme="primary"></hi-checkbox>

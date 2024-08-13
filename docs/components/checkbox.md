@@ -108,17 +108,17 @@
 
 # 组件样式变量
 
-| 变量                            | 说明                     | 默认值                   | 版本 |
-| ------------------------------- | ------------------------ | ------------------------ | ---- |
-| --hi-checkbox-border-width      | 复选框的边框粗细         | `0.5px`                  | -    |
-| --hi-checkbox-border-style      | 复选框的边框样式         | `solid`                  | -    |
-| --hi-checkbox-border-color      | 复选框的边框颜色         | `var(--hi-border-color)` | -    |
-| --hi-checkbox-border-radius     | 复选框的圆角大小         | `var(--hi-radius-small)` | -    |
-| --hi-checkbox-overflow          | 复选框的 overflow 属性值 | `hidden`                 | -    |
-| --hi-checkbox-size              | 复选框的大小             | `1.25em`                 | -    |
-| --hi-checkbox-background        | 复选框的背景             | -                        | -    |
-| --hi-checkbox-active-background | 复选框选中时的背景       | -                        | -    |
-| --hi-checkbox-gap               | 复选框与文本的间距       | `5px`                    | -    |
-| --hi-checkbox-icon-color        | 复选框的图标颜色         | -                        | -    |
-| --hi-checkbox-icon-size         | 复选框的图标大小         | -                        | -    |
-| --hi-checkbox-active-icon-color | 复选框选中时的图标颜色   | -                        | -    |
+| 变量                            | 说明                     | 默认值                                        | 版本 |
+| ------------------------------- | ------------------------ | --------------------------------------------- | ---- |
+| --hi-checkbox-border-width      | 复选框的边框粗细         | `0.5px`                                       | -    |
+| --hi-checkbox-border-style      | 复选框的边框样式         | `solid`                                       | -    |
+| --hi-checkbox-border-color      | 复选框的边框颜色         | `var(--hi-border-color)`                      | -    |
+| --hi-checkbox-border-radius     | 复选框的圆角大小         | `var(--hi-radius-small)`                      | -    |
+| --hi-checkbox-overflow          | 复选框的 overflow 属性值 | `hidden`                                      | -    |
+| --hi-checkbox-size              | 复选框的大小             | `1.25em`                                      | -    |
+| --hi-checkbox-background        | 复选框的背景             | -                                             | -    |
+| --hi-checkbox-active-background | 复选框选中时的背景       | -                                             | -    |
+| --hi-checkbox-gap               | 复选框与文本的间距       | `5px`                                         | -    |
+| --hi-checkbox-icon-color        | 复选框的图标颜色         | -                                             | -    |
+| --hi-checkbox-icon-size         | 复选框的图标大小         | `calc(var(--hi-checkbox-size, 1.25em) * 0.8)` | -    |
+| --hi-checkbox-active-icon-color | 复选框选中时的图标颜色   | -                                             | -    |
