@@ -44,6 +44,7 @@ export default defineConfig({
                                         { text: "Badge 徽标数", link: "/components/badge" },
                                         { text: "Tag 标签", link: "/components/tag" },
                                         { text: "Loading 加载", link: "/components/loading" },
+                                        { text: "LoadMore 加载更多", link: "/components/loadmore" },
                                     ],
                                 },
                                 {
