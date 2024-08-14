@@ -35,15 +35,26 @@ export default defineConfig({
                         {
                             text: "组件",
                             items: [
-                                { text: "Icon 图标", link: "/components/icon" },
-                                { text: "Button 按钮", link: "/components/button" },
-                                { text: "Badge 徽标数", link: "/components/badge" },
-                                { text: "Image 图片", link: "/components/image" },
-                                { text: "Checkbox 复选框", link: "/components/checkbox" },
-                                { text: "CheckboxGroup 复选框组", link: "/components/checkbox-group" },
-                                { text: "Radio 单选框", link: "/components/radio" },
-                                { text: "RadioGroup 单选框组", link: "/components/radio-group" },
-                                { text: "Tag 标签", link: "/components/tag" },
+                                {
+                                    text: "基础组件",
+                                    items: [
+                                        { text: "Icon 图标", link: "/components/icon" },
+                                        { text: "Button 按钮", link: "/components/button" },
+                                        { text: "Image 图片", link: "/components/image" },
+                                        { text: "Badge 徽标数", link: "/components/badge" },
+                                        { text: "Tag 标签", link: "/components/tag" },
+                                        { text: "Loading 加载", link: "/components/loading" },
+                                    ],
+                                },
+                                {
+                                    text: "表单组件",
+                                    items: [
+                                        { text: "Checkbox 复选框", link: "/components/checkbox" },
+                                        { text: "CheckboxGroup 复选框组", link: "/components/checkbox-group" },
+                                        { text: "Radio 单选框", link: "/components/radio" },
+                                        { text: "RadioGroup 单选框组", link: "/components/radio-group" },
+                                    ],
+                                },
                             ],
                         },
                     ],
