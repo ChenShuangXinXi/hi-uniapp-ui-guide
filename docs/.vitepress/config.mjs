@@ -48,6 +48,10 @@ export default defineConfig({
                                     ],
                                 },
                                 {
+                                    text: "反馈组件",
+                                    items: [{ text: "NoticeBar 通知公告", link: "/components/notice-bar" }],
+                                },
+                                {
                                     text: "表单组件",
                                     items: [
                                         { text: "Checkbox 复选框", link: "/components/checkbox" },
