@@ -36,7 +36,7 @@
 | -------- | ---------------- | ------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | v-model  | 显示状态         | Boolean | false           | -                                                                                                                                     | -    |
 | async    | 是否开启异步关闭 | Boolean | false           | -                                                                                                                                     | -    |
-| align    | 内容的布局位置   | String  | `center-center` | `left-top`、`left-center`、`left-bottom`、`center-top`、`center-center`、`center-bottom`、`right-top`、`right-center`、`right-bottom` |
+| align    | 内容的布局位置   | String  | `center-center` | `left-top`、`left-center`、`left-bottom`、`center-top`、`center-center`、`center-bottom`、`right-top`、`right-center`、`right-bottom` | -    |
 | duration | 过渡效果持续时间 | String  | -               | -                                                                                                                                     | -    |
 | bg       | 背景             | String  | -               | -                                                                                                                                     | -    |
 
