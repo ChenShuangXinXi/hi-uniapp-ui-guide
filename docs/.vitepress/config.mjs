@@ -52,6 +52,10 @@ export default defineConfig({
                                     items: [{ text: "NoticeBar 通知公告", link: "/components/notice-bar" }],
                                 },
                                 {
+                                    text: "布局组件",
+                                    items: [{ text: "Overlay 遮罩层", link: "/components/overlay" }],
+                                },
+                                {
                                     text: "表单组件",
                                     items: [
                                         { text: "Checkbox 复选框", link: "/components/checkbox" },
