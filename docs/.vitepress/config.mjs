@@ -49,7 +49,10 @@ export default defineConfig({
                                 },
                                 {
                                     text: "反馈组件",
-                                    items: [{ text: "NoticeBar 通知公告", link: "/components/notice-bar" }],
+                                    items: [
+                                        { text: "NoticeBar 通知公告", link: "/components/notice-bar" },
+                                        { text: "Popup 弹出层", link: "/components/popup" },
+                                    ],
                                 },
                                 {
                                     text: "布局组件",
