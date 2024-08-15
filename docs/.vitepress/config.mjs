@@ -56,7 +56,11 @@ export default defineConfig({
                                 },
                                 {
                                     text: "布局组件",
-                                    items: [{ text: "Overlay 遮罩层", link: "/components/overlay" }],
+                                    items: [
+                                        { text: "Swiper 轮播", link: "/components/swiper" },
+                                        { text: "SwiperIndicator 轮播指示器", link: "/components/swiper-indicator" },
+                                        { text: "Overlay 遮罩层", link: "/components/overlay" },
+                                    ],
                                 },
                                 {
                                     text: "表单组件",
