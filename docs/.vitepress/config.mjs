@@ -78,6 +78,7 @@ export default defineConfig({
                                     items: [
                                         { text: "StatusBar 状态栏", link: "/components/status-bar" },
                                         { text: "NavigationBar 导航栏", link: "/components/navigation-bar" },
+                                        { text: "Empty 内容为空", link: "/components/empty" },
                                     ],
                                 },
                             ],
