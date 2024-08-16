@@ -73,6 +73,10 @@ export default defineConfig({
                                         { text: "NumberStep 步进器", link: "/components/number-step" },
                                     ],
                                 },
+                                {
+                                    text: "导航组件",
+                                    items: [{ text: "StatusBar 状态栏", link: "/components/status-bar" }],
+                                },
                             ],
                         },
                     ],
