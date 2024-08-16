@@ -70,6 +70,7 @@ export default defineConfig({
                                         { text: "CheckboxGroup 复选框组", link: "/components/checkbox-group" },
                                         { text: "Radio 单选框", link: "/components/radio" },
                                         { text: "RadioGroup 单选框组", link: "/components/radio-group" },
+                                        { text: "NumberStep 步进器", link: "/components/number-step" },
                                     ],
                                 },
                             ],
