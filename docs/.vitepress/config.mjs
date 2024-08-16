@@ -75,7 +75,10 @@ export default defineConfig({
                                 },
                                 {
                                     text: "导航组件",
-                                    items: [{ text: "StatusBar 状态栏", link: "/components/status-bar" }],
+                                    items: [
+                                        { text: "StatusBar 状态栏", link: "/components/status-bar" },
+                                        { text: "NavigationBar 导航栏", link: "/components/navigation-bar" },
+                                    ],
                                 },
                             ],
                         },
