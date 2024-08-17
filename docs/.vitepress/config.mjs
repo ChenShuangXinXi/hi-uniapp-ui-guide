@@ -81,6 +81,10 @@ export default defineConfig({
                                         { text: "Empty 内容为空", link: "/components/empty" },
                                     ],
                                 },
+                                {
+                                    text: "展示组件",
+                                    items: [{ text: "Price 价格", link: "/components/price" }],
+                                },
                             ],
                         },
                     ],
