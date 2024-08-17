@@ -79,11 +79,17 @@ export default defineConfig({
                                         { text: "StatusBar 状态栏", link: "/components/status-bar" },
                                         { text: "NavigationBar 导航栏", link: "/components/navigation-bar" },
                                         { text: "Empty 内容为空", link: "/components/empty" },
+                                        { text: "Elevator 电梯导航", link: "/components/elevator" },
                                     ],
                                 },
                                 {
                                     text: "展示组件",
-                                    items: [{ text: "Price 价格", link: "/components/price" }],
+                                    items: [
+                                        { text: "Price 价格", link: "/components/price" },
+                                        { text: "Filter 过滤器", link: "/components/filter" },
+                                        { text: "Countdown 倒计时", link: "/components/countdown" },
+                                        { text: "AvatarGroup 头像组", link: "/components/avatar-group" },
+                                    ],
                                 },
                             ],
                         },
