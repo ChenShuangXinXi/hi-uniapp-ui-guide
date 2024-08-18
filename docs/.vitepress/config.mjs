@@ -61,6 +61,7 @@ export default defineConfig({
                                         { text: "SwiperIndicator 轮播指示器", link: "/components/swiper-indicator" },
                                         { text: "MovableButton 可拖动按钮", link: "/components/movable-button" },
                                         { text: "Overlay 遮罩层", link: "/components/overlay" },
+                                        { text: "List 列表", link: "/components/list" },
                                     ],
                                 },
                                 {
