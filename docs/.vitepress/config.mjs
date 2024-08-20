@@ -72,6 +72,7 @@ export default defineConfig({
                                         { text: "Radio 单选框", link: "/components/radio" },
                                         { text: "RadioGroup 单选框组", link: "/components/radio-group" },
                                         { text: "NumberStep 步进器", link: "/components/number-step" },
+                                        { text: "RegionPicker 省市区选择器", link: "/components/region-picker" },
                                     ],
                                 },
                                 {
