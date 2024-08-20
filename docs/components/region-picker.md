@@ -161,3 +161,5 @@
 | `@changeProvince` | 省份切换后触发                           | `index`: 切换后的省份下标。`province`: `Object` - 切换后的省份数据                                   |
 | `@changeCity`     | 城市切换后触发                           | `index`: 切换后的城市下标。`city`: `Object` - 切换后的城市数据                                       |
 | `@changeArea`     | 地区切换后触发                           | `index`: 切换后的地区下标。`area`: `Object` - 切换后的地区数据                                       |
+| `@close`          | 关闭事件                                 | `-`                                                                                                  |
+| `@confirm`        | 确认事件                                 | `-`                                                                                                  |
